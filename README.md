@@ -1,4 +1,6 @@
-# Exercise 00 Template
+# Exercise 00 Template 
+### Deadline 01.01.2022
+
 Program some cool stuff
 
 ## Task 1
